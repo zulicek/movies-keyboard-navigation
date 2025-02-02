@@ -1,8 +1,9 @@
+"use client";
 import React, { useEffect, useRef, useState } from "react";
 import { useSelector } from "react-redux";
 import { useAppDispatch } from "../store/store";
 import MoviesRow from "../components/MoviesRow";
-import { LoadingOutlined } from "@ant-design/icons";
+import LoadingOutlined from '@ant-design/icons/LoadingOutlined';
 import { Swiper as SwiperType } from "swiper/types";
 import {
   getGenres,
