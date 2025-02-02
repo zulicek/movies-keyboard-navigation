@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 This is a comprehensive movies application built with React, Redux, and Next.js.
 
+[https://movies-keyboard-navigation.vercel.app/](https://movies-keyboard-navigation.vercel.app/)
+
 
 ### Installation
 1. Clone the repository:
@@ -59,7 +61,7 @@ movies-keyboard-navigation/
 │   |── components/
 |   ├── hooks/
 |   ├── services/
-|   ├── store/
+|   ├── store/us
 ├── .gitignore
 ├── cypress.config.ts
 ├── next.config.js
